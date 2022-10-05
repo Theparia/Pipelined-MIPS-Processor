@@ -1,6 +1,5 @@
 # Pipelined-MIPS-Processor
 This is an implementation of a MIPS processor using pipelines.
-
 This processor supports the following instructions:
 
 * Arithmetic/Logical Instructions: add, addi, sub, slt, slti
